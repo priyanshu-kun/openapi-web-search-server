@@ -1,1 +1,1 @@
-# openapi web searh server
+# openapi web search server
